@@ -1,0 +1,1 @@
+A thinker who coined terms like [[enshitification]] and has writte books Audrey and I both enjoy.

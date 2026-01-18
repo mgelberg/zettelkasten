@@ -1,0 +1,3 @@
+Thinking about this article [[Suno and AI]] as it relates to [[Warner Music Group]] signing a deal. I'm still trying to understand what's in it for Suno, or what it means for their existing work. Is it just about having some legitimacy for deals with the other networks?
+
+Fundamentally, I would love to understand what % of artists actually opt in. Is Warner going to play fair when it comes to ensuring that artists must explicitly "opt-in", or is it going to be something that they agree to opt into by default for new deals?

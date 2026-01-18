@@ -1,0 +1,1 @@
+[[Cory Doctorow]] writes well on this subject.

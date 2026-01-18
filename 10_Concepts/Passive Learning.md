@@ -1,0 +1,1 @@
+Something I'm VERY guilty of. I love watching tons of tutorials for [[music production]], [[Python Learning (Index)]], etc., but I rarely take notes, or if I do, they're jumbled, and I can revisit those notes down the road and

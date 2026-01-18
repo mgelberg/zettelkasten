@@ -1,0 +1,1 @@
+The idea that in order to usher in the utopias we want, we need to embody it as much as we can in our current lives, even if its on a signfiicantly smaller scale. Was explored by [[Proudhon]] who is one of the early thinkers of [[Anarchism]].

@@ -1,0 +1,1 @@
+What we desire purelty for its own sake. Happiness, well-being, flourishing. The subject of Audrey and my [[The Quest for Eudaimonia]] book club.
