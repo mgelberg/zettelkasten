@@ -1,0 +1,1 @@
+A sad quality of the elite, who think that it'd be better to surround ourselves with robots, to not be part of our regular communities. To go to Mars or some shit, like there isn't enough to do here. Pretty much the opposite of [[Mutualism (Index)]] 

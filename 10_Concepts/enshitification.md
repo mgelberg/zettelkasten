@@ -1,0 +1,1 @@
+Popularized by [[Cory Doctorow]]. The idea that as [[platform monopolies]] capture us, they have no problem making their products/services worse in order to eke out percentage points of returns and benefit their shareholders at the expense of their userbase.

@@ -1,0 +1,1 @@
+The idea that we need to be in *tension* with the current way of thinking, and not be stuck in trying to evaluate life from the basis of how things currently are.

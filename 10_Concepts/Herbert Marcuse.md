@@ -1,0 +1,1 @@
+Very impactful philosopher that I've read, influential on new left politics.

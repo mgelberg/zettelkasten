@@ -1,0 +1,4 @@
+- Get first 5 weeks of release for [[Anastasia Kobekina]]
+- Apple Music campaign to focus on commentary tracks and getting into album source
+- Get stickability by lean back / lean forward
+- 
