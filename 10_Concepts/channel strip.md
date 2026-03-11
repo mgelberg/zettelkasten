@@ -1,0 +1,3 @@
+A classic way of [[Mixing (MOC)]] music, I mean it's how they did it for many years. There are a number of plugins that try to emulate that experience, and many have different characteristics that are trying to emulate the unique circuitry of vintage models.
+
+Reason makes one with the [[Channel EQ Equalizer  Reason Studios]] as a good example, but there are so many. I'm trying to avoid buying the *best* one, just one that works.
