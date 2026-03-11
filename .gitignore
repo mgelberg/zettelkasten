@@ -1,3 +1,12 @@
+# Obsidian workspace (changes constantly, machine-specific)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/community-plugins.json
+.obsidian/plugins/
+
+# Claude Code session data
+99_Resources/.claude/
+
 # Eurorack module manuals (downloaded locally via download_manuals.sh)
 99_Resources/*_manual.pdf
 99_Resources/*_manual.md
