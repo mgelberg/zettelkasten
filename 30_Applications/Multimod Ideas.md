@@ -1,0 +1,2 @@
+- Hadn't really thought about the other loop modes on the [[Pip Slope]] beyond the full loop, but would be interesting to patch the decreasing time (bouncy ball) waveform in and see what happens, especially over a really slow time.
+	- ![[Screenshot 2026-03-12 at 8.47.41 AM.png|172]]

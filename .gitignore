@@ -6,6 +6,7 @@
 
 # Claude Code session data
 99_Resources/.claude/
+.claude
 
 # Eurorack module manuals (downloaded locally via download_manuals.sh)
 99_Resources/*_manual.pdf
