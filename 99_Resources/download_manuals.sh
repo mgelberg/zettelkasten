@@ -24,7 +24,7 @@ download() {
 
 # --- Moog Music ---
 download "Moog Mother-32" \
-  "https://api.moogmusic.com/sites/default/files/2020-07/Mother_32_Users_Manual.pdf" \
+  "https://cdn.inmusicbrands.com/Moog/Mother32/Mother_32_Users_Manual.pdf" \
   "mother32_manual.pdf"
 
 # --- Instruō ---
@@ -97,13 +97,13 @@ download "Zeroscope 1U" \
   "https://intellijel.com/downloads/manuals/zeroscope-1u_manual_2020.10.26.pdf" \
   "zeroscope_1u_manual.pdf"
 
-# --- 2hp (check if PDFs exist - Analogue Haven hosts these) ---
+# --- 2hp ---
 download "Tune (Black Panel)" \
-  "https://www.analoguehaven.com/2hp/tune/manual.pdf" \
+  "https://static1.squarespace.com/static/573b5370b09f9524489340f2/t/5919f256bebafbd995a30cd2/1494872663474/Tune_Manual.pdf" \
   "2hp_tune_manual.pdf"
 
 download "Mix" \
-  "https://www.analoguehaven.com/2hp/mix/manual.pdf" \
+  "https://static1.squarespace.com/static/573b5370b09f9524489340f2/t/65ef3c5767789d29a07e818d/1710177367504/Mix_Manual_2023.pdf" \
   "2hp_mix_manual.pdf"
 
 download "Avert (Black Panel)" \
@@ -111,11 +111,11 @@ download "Avert (Black Panel)" \
   "2hp_avert_manual.pdf"
 
 download "Buff" \
-  "https://www.analoguehaven.com/2hp/buff/manual.pdf" \
+  "https://lucyinc.squarespace.com/s/Buff_Manual_2023.pdf" \
   "2hp_buff_manual.pdf"
 
 download "Loop (Black Panel)" \
-  "https://www.analoguehaven.com/2hp/loop/manual.pdf" \
+  "https://static1.squarespace.com/static/573b5370b09f9524489340f2/t/603edb0ab9f7a73c0cf80bc3/1614732042619/Loop_gettingstarted.pdf" \
   "2hp_loop_manual.pdf"
 
 # --- Noise Engineering ---
@@ -132,7 +132,7 @@ download "Kickall" \
 
 # --- ALM Busy Circuits ---
 download "Pip Slope mk II" \
-  "https://busycircuits.com/docs/alm028-manual.pdf" \
+  "https://assets.busycircuits.com/docs/alm028-manual.pdf" \
   "pip_slope_mkii_manual.pdf"
 
 download "Pamela's NEW Workout" \
@@ -205,11 +205,13 @@ download "Data Bender" \
 
 # --- Cosmotronic ---
 download "Messor" \
-  "https://www.juno.co.uk/downloads/manual/995681-01U.pdf/" \
+  "https://drive.google.com/uc?export=download&id=1N3yUDQhhb-rLvTK2UfMwucxCgW51emRw" \
   "messor_manual.pdf"
 
 # --- Malstrom ---
-# Wyvern manual is HTML only: https://www.malstromaudio.com/wyvern-manual
+download "Wyvern" \
+  "https://files.pixpa.com/782433/1744381668006-1792.pdf" \
+  "wyvern_manual.pdf"
 
 # --- Expert Sleepers ---
 # ES-8 manual is HTML only: https://www.expert-sleepers.co.uk/es8usermanual.html
@@ -221,7 +223,6 @@ echo ""
 echo "NOTE: The following modules have HTML-only manuals (no PDF to download):"
 echo "  - Roti Pola (Noise Engineering): https://manuals.noiseengineering.us/rp/"
 echo "  - STEP FADER MKII (Tesseract Modular): https://www.tesseractmodular.com/manuals/"
-echo "  - Wyvern (Malstrom): https://www.malstromaudio.com/wyvern-manual"
 echo "  - ES-8 (Expert Sleepers): https://www.expert-sleepers.co.uk/es8usermanual.html"
 echo ""
 echo "NOTE: The following modules had no manual found:"
