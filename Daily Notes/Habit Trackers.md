@@ -20,6 +20,5 @@ showCurrentDayBorder: true
 disableFileCreation: false
 colorScheme:
   paletteName: Palette1
-path: Daily Notes
 ui: {}
 ```
