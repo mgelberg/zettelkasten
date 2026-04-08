@@ -15,7 +15,8 @@
 99_Resources/multimod-manual.pdf
 99_Resources/xaoc_belgrad_manual_A4.pdf
 99_Resources/*.pdf
-99_Resources/Music Production/*.pdf
+99_Resources/Music_Production/*.pdf
+99_Resources/Music_Production/Monotrail Tech Talk - All PDF Sheets zipfile/*.pdf
 
 # apple related files
 .DS_Store
