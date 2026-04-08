@@ -14,3 +14,7 @@
 99_Resources/Step Fader mkII.pdf
 99_Resources/multimod-manual.pdf
 99_Resources/xaoc_belgrad_manual_A4.pdf
+99_Resources/*.pdf
+
+# apple related files
+.DS_Store
